@@ -6,7 +6,7 @@ The platform enforces **authentication, authorization, and verification-based ac
 ---
 <img width="1746" height="977" alt="Screenshot 2026-01-29 170118" src="https://github.com/user-attachments/assets/12c2be19-8443-43e3-a0f6-4eef28594fd7" />
 
-## 1. End-to-End Application Flow
+## 1. End-to-End Application Flow,
 
 1. A user lands on the **Landing Page** and understands the value proposition.
 2. The user **registers** with name, email, and password.
